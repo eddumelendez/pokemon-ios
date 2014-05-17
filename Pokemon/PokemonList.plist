@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>url</key>
+		<string>http://cdn.bulbagarden.net/upload/thumb/2/21/001Bulbasaur.png/250px-001Bulbasaur.png</string>
+		<key>name</key>
+		<string>Bulbasaur</string>
+		<key>location</key>
+		<string>Cali, Colombia</string>
+		<key>description</key>
+		<string>bulbasaur desc</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://cdn.bulbagarden.net/upload/thumb/0/0d/025Pikachu.png/250px-025Pikachu.png</string>
+		<key>name</key>
+		<string>Pikachu</string>
+		<key>location</key>
+		<string>Lima, Peru</string>
+		<key>description</key>
+		<string>pikachu desc</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://cdn.bulbagarden.net/upload/thumb/7/73/004Charmander.png/250px-004Charmander.png</string>
+		<key>name</key>
+		<string>Charmander</string>
+		<key>location</key>
+		<string>Rio de Janeiro, Brazil</string>
+		<key>description</key>
+		<string>charmander desc</string>
+	</dict>
+</array>
+</plist>
